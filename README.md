@@ -35,11 +35,11 @@
 
 ###
 <div align="center">
-  <a href="https://pimcore.com/academy/certificate-validation?certificationNumber=M9D3LS4EH2WZAVQ">
-    <img src="https://pimcore.com/academy/certificate-validation/badge/M9D3LS4EH2WZAVQ">
+  <a href="https://pimcore.com/academy/certificate-validation?certificationNumber=Y6X3Z2EMTQSBDF4">
+    <img src="https://pimcore.com/academy/certificate-validation/badge/Y6X3Z2EMTQSBDF4">
   </a>
-  <a href="https://pimcore.com/academy/certificate-validation?certificationNumber=LW8U9E17VQJ6CHT">
-    <img src="https://pimcore.com/academy/certificate-validation/badge/LW8U9E17VQJ6CHT">
+  <a href="https://pimcore.com/academy/certificate-validation?certificationNumber=PSFWBLCV964XN75">
+    <img src="https://pimcore.com/academy/certificate-validation/badge/PSFWBLCV964XN75">
   </a>
   <a href="https://pimcore.com/academy/certificate-validation?certificationNumber=964L3TQJ1MX8CUP">
     <img src="https://pimcore.com/academy/certificate-validation/badge/964L3TQJ1MX8CUP">
